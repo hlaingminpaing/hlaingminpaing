@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hlaing Min Paing - DevOps Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hlaing_min_paing/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hlaing-min-paing/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@myanmartechacademy)
 
 ![DevOps Banner](https://github.com/hlaingminpaing/hlaingminpaing/blob/main/assets/devops-banner.png?raw=true)
@@ -75,7 +75,7 @@ Secure CI/CD pipeline with SAST, DAST, and secret scanning.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/hlaing_min_paing/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/hlaing-min-paing/)
 - 📹 [YouTube Channel](https://www.youtube.com/@myanmartechacademy)
 - ✉️ Email: hlaingminpaing.ygn@gmail.com
 
