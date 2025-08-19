@@ -1,11 +1,9 @@
-# 👋 Hello, I'm [Your Name] - DevOps Engineer
+# 👋 Hello, I'm Hlaing Min Paing - DevOps Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hlaing_min_paing/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@myanmartechacademy)
 
-![DevOps Banner](https://github.com/yourusername/yourusername/blob/main/assets/devops-banner.png?raw=true)
+![DevOps Banner](https://github.com/hlaingminpaing/hlaingminpaing/blob/main/assets/devops-banner.png?raw=true)
 
 ## 🚀 DevOps Skills & Expertise
 
@@ -14,9 +12,9 @@
 | **Cloud** | **CI/CD** | **Containers** | **Monitoring** | **IaC** |
 |-----------|-----------|----------------|----------------|---------|
 | AWS       | Jenkins   | Docker         | Prometheus     | Terraform |
-| Azure     | GitHub Actions | Kubernetes    | Grafana       | Ansible |
-| GCP       | CircleCI  | Podman         | ELK Stack      | Pulumi  |
-| OpenStack | ArgoCD    | ECS            | Datadog        | Crossplane |
+| Azure     | GitHub Actions | Kubernetes    | Grafana       |        |
+|           | Gitlab CI | ECS            | ELK Stack      |          |
+|           | ArgoCD    |                |                |  |        
 
 </div>
 
@@ -65,11 +63,11 @@ Secure CI/CD pipeline with SAST, DAST, and secret scanning.
 
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hlaingminpaing&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlaingminpaing&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hlaingminpaing&theme=radical)
 
 </div>
 
@@ -77,12 +75,12 @@ Secure CI/CD pipeline with SAST, DAST, and secret scanning.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- 📹 [YouTube Channel](https://youtube.com/yourchannel)
-- ✉️ Email: your.email@example.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/hlaing_min_paing/)
+- 📹 [YouTube Channel](https://www.youtube.com/@myanmartechacademy)
+- ✉️ Email: hlaingminpaing.ygn@gmail.com
 
-<div align="center">
+<!-- <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=hlaingminpaing&label=Profile%20Views&color=blueviolet&style=flat)
 
-</div>
+</div> -->
